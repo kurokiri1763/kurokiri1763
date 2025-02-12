@@ -1,10 +1,11 @@
-
-
 <p align="left"> 
-  <img alt="Top Langs" height="150px"src="https://github-readme-stats.vercel.app/api/top-langs/?username=kurokiri1763&layout=compact&show_icons=true&theme=dark" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=kurokiri1763&theme=dark&show_icons=ture" />
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kurokiri1763&layout=compact&show_icons=true&theme=dark" />
+  <img alt="github stats" height="150px"src="https://github-readme-stats.vercel.app/api?username=kurokiri1763&theme=dark&show_icons=ture" />
 </p>
 
+[![](https://raw.githubusercontent.com/kurokiri1763/kurokiri1763/main/profile-summary-card-output/dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/kurokiri1763/kurokiri1763/main/profile-summary-card-output/dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/kurokiri1763/kurokiri1763/main/profile-summary-card-output/dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/kurokiri1763/kurokiri1763/main/profile-summary-card-output/dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/kurokiri1763/kurokiri1763/main/profile-summary-card-output/dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 <!--
 **kurokiri1763/kurokiri1763** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
