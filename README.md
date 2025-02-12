@@ -1,8 +1,9 @@
-## Hi there 👋
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kurokiri1763&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
+<p align="left"> 
+  <img alt="Top Langs" height="150px"src="https://github-readme-stats.vercel.app/api/top-langs/?username=kurokiri1763&layout=compact&show_icons=true&theme=dark" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=kurokiri1763&theme=dark&show_icons=ture" />
+</p>
 
 
 <!--
